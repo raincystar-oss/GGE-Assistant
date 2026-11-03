@@ -1,0 +1,5 @@
+# Direct runtime dependencies, versions used in the local project environment.
+httpx==0.28.1
+faster-whisper==1.2.1
+yt-dlp==2026.8.19
+numpy==2.4.6
